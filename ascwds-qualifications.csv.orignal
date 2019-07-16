@@ -1,0 +1,127 @@
+1,10,Award,Advanced Award in Social Work (AASW),20,,,7,FALSE,TRUE,QL20ACHQ4
+2,20,Award,Award in Stroke Awareness,86,2011-01-01,,2,FALSE,TRUE,QL86ACHQ2
+3,30,Award,Award in Supporting Individuals on the Autistic Spectrum,107,,,3,FALSE,TRUE,QL107ACHQ3
+4,40,Award,Awareness of Dementia,48,2010-09-01,,2,TRUE,TRUE,QL48ACHQ2
+5,50,Award,Awareness of Dementia,49,2010-09-01,,3,TRUE,TRUE,QL49ACHQ3
+6,60,Award,Awareness of End of Life Care,99,,,2,TRUE,TRUE,QL99ACHQ2
+7,70,Award,Awareness of End of Life Care,100,,,3,TRUE,TRUE,QL100ACHQ3
+8,80,Award,Awareness of the Mental Capacity Act 2005,103,2013-01-01,,3,FALSE,TRUE,QL103ACHQ3
+9,90,Award,Basic awareness of Diabetes,88,2011-01-01,,2,FALSE,TRUE,QL88ACHQ2
+10,100,Award,Emergency First Aid at Work,52,2008-09-01,,2,FALSE,FALSE,QL52ACHQ2
+11,110,Award,"Employment Responsibilities and Rights in Health, Social Care, Children and Young People's Settings",96,2010-01-01,,2,FALSE,TRUE,QL96ACHQ2
+12,120,Award,Food safety in health and social care and early years and childcare settings,90,2011-01-01,,2,FALSE,TRUE,QL90ACHQ2
+13,130,Award,"Introduction to Health, Social Care and Children's and Young People's Settings",92,2011-01-01,,1,FALSE,TRUE,QL92ACHQ1
+14,140,Award,Mental Health Social Work Award (MHSWA),22,,,4,FALSE,TRUE,QL22ACHQ4
+15,150,Award,Mentor Award,25,,,4,FALSE,FALSE,QL25ACHQ4
+16,160,Award,Post-Qualifying Award in Social Work (PQSW) Part 1,19,,,4,FALSE,TRUE,QL19ACHQ4
+17,170,Award,Preparing to Work in Adult Social Care,85,2011-01-01,,1,FALSE,TRUE,QL85ACHQ1
+18,180,Award,Promoting food safety and nutrition in health and social care or early years and childcare settings,91,2011-01-01,,2,FALSE,TRUE,QL91ACHQ2
+19,190,Award,Providing an Induction in to Assisting & Moving Individuals in Adult Social Care,74,2011-01-01,,3,FALSE,TRUE,QL74ACHQ3
+20,200,Award,Supporting Activity Provision in Social Care,41,,,2,FALSE,TRUE,QL41ACHQ2
+21,210,Award,Supporting Individuals with Learning Disabilities,95,2011-10-01,,2,TRUE,TRUE,QL94ACHQ2
+22,220,Award,Supporting Individuals with Learning Disabilities,94,2011-10-01,,3,TRUE,TRUE,QL95ACHQ3
+23,230,Award,Understanding Working with People with Mental Health Issues,72,2011-01-01,,2,FALSE,TRUE,QL72ACHQ2
+24,240,Award,Any Learning Disabled Awards Framework (LDAF) award,8,,2010-07-31,,FALSE,TRUE,QL08ACHQ
+27,270,Award,Any other social care relevant award,111,,,,FALSE,FALSE,QL111ACHQ
+28,280,Award,Any other non-social care relevant award,112,,,,FALSE,TRUE,QL112ACHQ
+30,290,Certificate,Activity Provision in Social Care,42,,,3,FALSE,TRUE,QL42ACHQ3
+31,300,Certificate,Adult Care,110,,,4,FALSE,TRUE,QL110ACHQ4
+32,310,Certificate,Assisting and Moving Individuals in Social Care,73,2011-01-01,,2,FALSE,TRUE,QL73ACHQ2
+33,320,Certificate,Certificate in Assisting and Moving Individuals for a Social care Setting,119,,,2,FALSE,TRUE,QL119ACHQ2
+34,330,Certificate,Certificate in Autism Support,121,,,3,FALSE,TRUE,QL121ACHQ3
+35,340,Certificate,Certificate in Awareness of Mental Health Problems,136,,,2,FALSE,TRUE,QL136ACHQ2
+36,350,Certificate,Certificate in Clinical Skills,123,,,2,TRUE,TRUE,QL123ACHQ2
+37,360,Certificate,Certificate in Clinical Skills,124,,,3,TRUE,TRUE,QL124ACHQ3
+38,370,Certificate,Certificate in Fundamental Knowledge in Commissioning for Wellbeing,125,,,5,FALSE,TRUE,QL125ACHQ5
+39,380,Certificate,Certificate in Independent Advocacy,118,,,3,FALSE,TRUE,QL118ACHQ3
+40,390,Certificate,Certificate in Mental Health Awareness,137,,,2,FALSE,TRUE,QL137ACHQ2
+41,400,Certificate,Certificate in Principles of Leadership and Management in Adult Care,131,,,4,FALSE,TRUE,QL131ACHQ4
+42,410,Certificate,Certificate in Principles of Safe Handling of Medication in Health and Social Care (RQF),134,,,2,FALSE,TRUE,QL134ACHQ2
+43,420,Certificate,Certificate in Principles of Working with People with Mental Health Needs,138,,,2,FALSE,TRUE,QL138ACHQ2
+44,430,Certificate,Certificate in Social Prescribing,143,,,3,FALSE,TRUE,QL143ACHQ3
+45,440,Certificate,Certificate in Stroke Care Management,87,2011-01-01,,3,FALSE,TRUE,QL87ACHQ3
+47,450,Certificate,Certificate in Supporting Individuals on the Autistic Spectrum,108,,,3,FALSE,TRUE,QL108ACHQ3
+48,460,Certificate,Certificate in Understand Mental Health,141,,,3,FALSE,TRUE,QL141ACHQ3
+49,470,Certificate,Certificate in Understanding Autism,120,,,2,TRUE,TRUE,QL120ACHQ2
+50,480,Certificate,Certificate in Understanding Autism,122,,,3,TRUE,TRUE,QL122ACHQ3
+51,490,Certificate,Certificate in Understanding Care and Management of Diabetes,126,,,2,TRUE,TRUE,QL126ACHQ2
+52,500,Certificate,Certificate in Understanding Care and Management of Diabetes,128,,,3,TRUE,TRUE,QL128ACHQ3
+53,510,Certificate,Certificate in Understanding Diabetes,127,,,2,FALSE,TRUE,QL127ACHQ2
+54,520,Certificate,Certificate in Understanding Mental Health Care,142,,,3,FALSE,TRUE,QL142ACHQ3
+55,530,Certificate,Certificate in Understanding the Safe Handling of Medication,133,,,2,FALSE,TRUE,QL133ACHQ2
+56,540,Certificate,Certificate in Understanding the Safe Handling of Medication in Health and Social Care,135,,,2,FALSE,TRUE,QL135ACHQ2
+57,550,Certificate,Certificate in Understanding Working in Mental Health,139,,,2,FALSE,TRUE,QL139ACHQ2
+58,560,Certificate,Certificate in Understanding Working with People with Mental Health Needs,140,,,2,FALSE,TRUE,QL140ACHQ2
+59,570,Certificate,Delivering Chair-Based Exercise with Frailer Older Adults and Adults with Disabilities in Care and Community Settings,98,2012-01-01,,2,FALSE,TRUE,QL98ACHQ2
+60,580,Certificate,Dementia Care,50,2010-09-01,,2,TRUE,TRUE,QL50ACHQ2
+61,590,Certificate,Dementia Care,51,2010-09-01,,3,TRUE,TRUE,QL51ACHQ3
+62,600,Certificate,"Introduction to Health, Social Care and Children's and Young People's Settings",93,2011-01-01,,1,FALSE,TRUE,QL93ACHQ1
+63,610,Certificate,Leading and Managing Services to Support End of Life and Significant Life Events,102,,,5,FALSE,TRUE,QL102ACHQ5
+64,620,Certificate,Preparing to work in Adult Social Care,76,2011-01-01,,2,TRUE,TRUE,QL76ACHQ2
+65,630,Certificate,Preparing to work in Adult Social Care,77,2011-01-01,,3,TRUE,TRUE,QL77ACHQ3
+66,640,Certificate,Supporting Individuals with Learning Disabilities,67,2011-01-01,,2,TRUE,TRUE,QL67ACHQ2
+67,650,Certificate,Supporting Individuals with Learning Disabilities,68,2011-01-01,,3,TRUE,TRUE,QL68ACHQ3
+68,660,Certificate,Working in End of Life care,101,,,3,FALSE,TRUE,QL101ACHQ3
+69,670,Certificate,Working with individuals with Diabetes,89,2011-01-01,,3,FALSE,TRUE,QL89ACHQ3
+71,680,Degree,Combined Nursing & Social Work degree,18,,,6,FALSE,TRUE,QL18ACHQ4
+72,690,Degree,Social Work degree (UK),16,,,6,FALSE,TRUE,QL16ACHQ4
+74,700,Diploma,Adult Care,109,,,4,FALSE,TRUE,QL109ACHQ4
+75,710,Diploma,Approved Mental Health Practitioner,104,2000-01-01,,4,FALSE,TRUE,QL104ACHQ4
+76,720,Diploma,Approved Social Worker,105,2000-01-01,,4,FALSE,TRUE,QL105ACHQ4
+77,730,Diploma,Diploma in Care (RQF),129,,,2,TRUE,TRUE,QL129ACHQ2
+78,740,Diploma,Diploma in Care (RQF),130,,,3,TRUE,TRUE,QL130ACHQ3
+79,750,Diploma,Diploma in Leadership and Management for Adult Care (RQF),132,,,5,FALSE,TRUE,QL132ACHQ5
+80,760,Diploma,Health and Social Care - Generic Pathway,53,2011-01-01,,2,TRUE,TRUE,QL53ACHQ2
+81,770,Diploma,Health and Social Care - Generic Pathway,54,2011-01-01,,3,TRUE,TRUE,QL54ACHQ3
+82,780,Diploma,Health and Social Care - Dementia,55,2011-01-01,,2,TRUE,TRUE,QL55ACHQ2
+83,790,Diploma,Health and Social Care - Dementia,56,2011-01-01,,3,TRUE,TRUE,QL56ACHQ3
+84,800,Diploma,Health and Social Care - Learning Disabilities,57,2011-01-01,,2,TRUE,TRUE,QL57ACHQ2
+85,810,Diploma,Health and Social Care - Learning Disabilities,58,2011-01-01,,3,TRUE,TRUE,QL58ACHQ3
+86,820,Diploma,Leadership in Health and Social Care and Children and Young People's Services - Adults' Residential Management,62,2011-01-01,,5,FALSE,TRUE,QL62ACHQ5
+87,830,Diploma,Leadership in Health and Social Care and Children and Young People's Services - Adults' Management,63,2011-01-01,,5,FALSE,TRUE,QL63ACHQ5
+88,840,Diploma,Leadership in Health and Social Care and Children and Young People's Services - Adults' Advanced Practice,64,2011-01-01,,5,FALSE,TRUE,QL64ACHQ5
+90,860,Diploma,Any other social care relevant diploma,115,,,,FALSE,TRUE,QL115ACHQ
+91,870,Diploma,Any other non-social care relevant diploma,116,,,,FALSE,FALSE,QL116ACHQ
+93,880,NVQ,Care NVQ,4,,2007-01-31,2,TRUE,TRUE,QL04ACHQ2
+94,890,NVQ,Care NVQ,5,,2007-01-31,3,TRUE,TRUE,QL05ACHQ3
+95,900,NVQ,Care NVQ,6,,2007-01-31,4,TRUE,TRUE,QL06ACHQ4
+96,910,NVQ,Health and Social Care NVQ,3,,2012-12-31,4,TRUE,TRUE,QL03ACHQ4
+97,920,NVQ,Health and Social Care NVQ,1,,2012-12-31,2,TRUE,TRUE,QL01ACHQ2
+98,930,NVQ,Health and Social Care NVQ,2,,2012-12-31,3,TRUE,TRUE,QL02ACHQ3
+99,940,NVQ,Other health and care-related NVQ(s),9,,2012-12-31,,FALSE,TRUE,QL09ACHQ
+100,950,NVQ,Registered Manager's (Adults) NVQ,10,,2011-07-31,4,FALSE,TRUE,QL10ACHQ4
+102,960,Assessor and mentoring,"A1, A2 or other Assessor NVQ",13,,2013-12-31,3,FALSE,FALSE,QL13ACHQ3
+103,970,Assessor and mentoring,Any Assessor qualification,82,2011-01-01,,,FALSE,FALSE,QL82ACHQ
+104,980,Assessor and mentoring,Any Internal Verifier qualification,83,2011-01-01,,,FALSE,FALSE,QL83ACHQ
+105,990,Assessor and mentoring,Any Mentoring qualification,84,2011-01-01,,,FALSE,FALSE,QL84ACHQ
+106,1000,Assessor and mentoring,L20 or other Mentoring NVQ,15,,2013-12-31,3,FALSE,FALSE,QL15ACHQ3
+107,1010,Assessor and mentoring,V1 or other Internal Verifier NVQ,14,,2013-12-31,3,FALSE,FALSE,QL14ACHQ3
+109,1020,Any other qualification,A Basic Skills qualification,35,,2014-08-31,1,TRUE,FALSE,QL35ACHQ1
+110,1030,Any other qualification,A Basic Skills qualification,36,,2014-08-31,2,TRUE,FALSE,QL36ACHQ2
+111,1040,Any other qualification,A Basic Skills qualification,34,,,E,TRUE,FALSE,QL34ACHQE
+112,1050,Any other qualification,Any childrens/young people's qualification,117,,,,FALSE,FALSE,QL117ACHQ
+117,1100,Any other qualification,Any other qualification relevant to social care,37,,,,FALSE,TRUE,QL37ACHQ
+118,1110,Any other qualification,Any other qualification relevant to the job role,38,,,,FALSE,FALSE,QL38ACHQ
+119,1120,Any other qualification,Any other qualifications held,39,,,,FALSE,FALSE,QL39ACHQ
+121,1130,Apprenticeship,Adult Care Worker (standard),302,,,2,TRUE,FALSE,QL302ACHQ2
+122,1140,Apprenticeship,Adult Care Worker (standard),304,,,3,TRUE,FALSE,QL304ACHQ3
+123,1150,Apprenticeship,Advance Apprenticeships in Health and Social Care (framework),303,,,3,FALSE,FALSE,QL303ACHQ3
+124,1160,Apprenticeship,Degree Registered Nurse (standard),310,,,6,FALSE,FALSE,QL310ACHQ6
+125,1170,Apprenticeship,Degree Social Worker (standard),308,,,6,FALSE,FALSE,QL308ACHQ6
+126,1180,Apprenticeship,Higher Apprenticeship in Care Leadership and Management (framework),306,,,5,FALSE,FALSE,QL306ACHQ5
+127,1190,Apprenticeship,Intermediate Apprenticeship in Health and Social Care (framework),301,,,2,FALSE,FALSE,QL301ACHQ2
+128,1200,Apprenticeship,Lead Practitioner in Adult Care (standard),305,,,4,FALSE,FALSE,QL305ACHQ4
+129,1210,Apprenticeship,Leader in Adult Care (standard),307,,,5,FALSE,FALSE,QL307ACHQ5
+130,1220,Apprenticeship,Nursing Associate (standard),309,,,5,FALSE,FALSE,QL309ACHQ5
+131,1230,Apprenticeship,Occupational Therapist,312,,,6,FALSE,FALSE,QL312ACHQ6
+132,1240,Apprenticeship,Physiotherapist,313,,,6,FALSE,FALSE,QL313ACHQ6
+133,1250,Apprenticeship,Any other apprenticeship framework or standard,311,,,,FALSE,FALSE,QL311ACHQ
+89,850,Diploma,Social Work diploma or other approved UK or non-UK social work qualification,17,,,,TRUE,TRUE,QL17ACHQ4
+113,1060,Any other qualification,Any other relevant professional qualification,33,,,,FALSE,FALSE,QL33ACHQ4
+114,1070,Any other qualification,Any professional Occupational Therapy qualification,27,,,,FALSE,TRUE,QL27ACHQ4
+115,1080,Any other qualification,Any qualification in assessment of work-based learning other than social work,32,,,,FALSE,FALSE,QL32ACHQ3
+116,1090,Any other qualification,Any Registered Nursing qualification,28,,,,FALSE,TRUE,QL28ACHQ4
+134,675,Certificate,Any other social care relevant certificate,113,2018-01-01,,,FALSE,TRUE,unknown
+135,676,Certificate,Any other non-social care relevant certificate,114,2018-01-01,,,FALSE,FALSE,unknown
+25,250,Award,Other management awards,12,,,,FALSE,FALSE,QL12ACHQ3
+26,260,Award,Other Post-Qualifying Social Work Award,26,,,,FALSE,TRUE,QL26ACHQ4
